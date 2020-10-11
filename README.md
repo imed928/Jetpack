@@ -8,7 +8,7 @@ Clone the repo
 
 ################## STEP 2 ##################
 
-In the directory "Jetapck" run the command "make"
+In the directory "Jetpack" run the command "make"
 
 ################## STEP 3 ##################
 
