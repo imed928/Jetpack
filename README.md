@@ -12,7 +12,7 @@ In the directory "Jetpack" run the command "make"
 
 ################## STEP 3 ##################
 
-In the same directory run the command "./Jetpack
+In the same directory run the command "./Jetpack"
 
 ################## STEP 4 ##################
 
